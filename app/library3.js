@@ -1,4 +1,4 @@
-
+//Solution to Question3 goes here
 module.exports = {
 	fizzBuzz: function fizzBuzz(num){
 		if ((num % 3 == 0) && (num % 5 == 0)){

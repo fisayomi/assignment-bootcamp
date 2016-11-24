@@ -1,4 +1,4 @@
-
+//Solution to Question 1 goes here
 
 module.exports = {
 	aritGeo: function aritGeo(array){

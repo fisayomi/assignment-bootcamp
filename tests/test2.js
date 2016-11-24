@@ -4,9 +4,9 @@
   'use strict';
 
   var chai = require('chai');
-  var assert = chai.assert;
   var expect = chai.expect;
   var myApp = require('../app/library2.js');
+
   describe('Min-Max Numbers in a List: ', function () {
 
     describe('Return the min and max number in the list in a new list follows `[min, max]`', function () {

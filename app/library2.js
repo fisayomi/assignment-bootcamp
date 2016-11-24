@@ -1,4 +1,4 @@
-
+//Solution to Question2 goes here
 
 module.exports = {
 	findMinMax: function findMinMax(array){

@@ -3,7 +3,6 @@
 (function(){
  'use strict';
   var chai = require('chai');
-  var assert = chai.assert;
   var expect = chai.expect;
   var myApp = require('../app/library.js');
 
